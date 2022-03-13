@@ -1,0 +1,4 @@
+github.com/adimax2953/types v0.0.0-20220313064011-24a082f9e67c h1:x9QzWw/E9YCANzpLb5JU+CbWtdq79xeB2Pwm8HA9zYU=
+github.com/adimax2953/types v0.0.0-20220313064011-24a082f9e67c/go.mod h1:DjE4x3AVZ1PbQo+UlpOCNE3Em3SVND3i5LjD6lb3sUc=
+github.com/cstockton/go-conv v1.0.0 h1:zj/q/0MpQ/97XfiC9glWiohO8lhgR4TTnHYZifLTv6I=
+github.com/cstockton/go-conv v1.0.0/go.mod h1:HuiHkkRgOA0IoBNPC7ysG7kNpjDYlgM7Kj62yQPxjy4=
